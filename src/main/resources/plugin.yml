@@ -1,0 +1,4 @@
+name: Launchpads
+version: ${project.version}
+main: me.pugly.launchpads.Launchpads
+api-version: 1.16
